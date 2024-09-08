@@ -1,1 +1,1 @@
-WorkingHours
+WorkingHours.
