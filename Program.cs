@@ -34,13 +34,3 @@ else
     Console.WriteLine("closed");
 }
 
-
-
-
-
-
-
-
-
-
-
